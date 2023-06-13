@@ -1,5 +1,4 @@
 # credit-risk-classification
-UPenn Data Bootcamp Module 20 Assignment
 
 * Split the Data into Training and Testing Sets
   * Read the lending_data.csv data into a Pandas DataFrame.
@@ -13,7 +12,7 @@ UPenn Data Bootcamp Module 20 Assignment
     * Calculate the accuracy score of the model.
     * Generate a confusion matrix.
     * Print the classification report.
-  * Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
+  * Answer the following question: How does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
 * Write a Credit Risk Report
 
